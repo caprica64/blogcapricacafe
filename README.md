@@ -1,2 +1,2 @@
 # blogcapricacafe
-Caprica Cafe Blog
+Caprica Cafe Blog source repository
